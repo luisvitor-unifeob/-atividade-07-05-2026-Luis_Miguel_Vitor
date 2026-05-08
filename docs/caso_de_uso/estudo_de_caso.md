@@ -1,7 +1,4 @@
-
-<img width="394" height="808" alt="image" src="https://github.com/user-attachments/assets/7b7151d2-3e0f-4436-bcb5-d909cc7e3a86" />
-
-
+<img width="394" height="808" alt="image" src="https://github.com/user-attachments/assets/5f1b9e40-86e0-423b-8dbf-082c230c6cc9" />
 
 
 ### UC01 — Cadastrar Cinema
@@ -18,12 +15,11 @@
 **Fluxo Principal:**
 1. O administrador acessa a opção de cadastro de cinema.
 2. O sistema exibe o formulário de cadastro.
-3. O administrador informa nome, endereço, franquia e capacidade maxima.
-4. O sistema valida e salva os dados e cadastra o cinema.
+3. O administrador informa nome, endereço e capacidade.
+4. O sistema valida e salva os dados.
 
-<img width="220" height="61" alt="image" src="https://github.com/user-attachments/assets/2660c075-7696-45e6-aa87-65b6994a22bb" />
-
-
+**RF Relacionados:** RF01  
+**RN Relacionadas:** RN04, RN05
 
 ---
 
@@ -44,8 +40,8 @@
 3. O administrador informa título, duração, gênero, sinopse, diretor e elenco.
 4. O sistema valida e salva os dados.
 
-<img width="220" height="63" alt="image" src="https://github.com/user-attachments/assets/f4a9fe4a-ebb0-4c95-9f38-7b3209fb141a" />
-
+**RF Relacionados:** RF02  
+**RN Relacionadas:** RN04
 
 ---
 
@@ -66,8 +62,8 @@
 3. O funcionário seleciona o filme, o cinema, e informa data, horário e sala.
 4. O sistema valida o horário e salva a sessão.
 
-<img width="220" height="63" alt="image" src="https://github.com/user-attachments/assets/f9f31e37-1163-4dbc-9e6c-4245f4a78b39" />
-
+**RF Relacionados:** RF03  
+**RN Relacionadas:** RN01, RN02, RN05
 
 ---
 
@@ -87,9 +83,9 @@
 2. O sistema exibe as sessões disponíveis.
 3. O funcionário seleciona a sessão e informa a quantidade de público.
 4. O sistema valida a capacidade e salva o registro.
- 
-<img width="220" height="64" alt="image" src="https://github.com/user-attachments/assets/63b1f999-4b49-4d7d-ad6e-29ea5b8b3719" />
 
+**RF Relacionados:** RF04  
+**RN Relacionadas:** RN03
 
 ---
 
@@ -109,8 +105,8 @@
 2. O sistema busca as sessões disponíveis.
 3. O sistema exibe os filmes em cartaz com seus respectivos horários.
 
-<img width="220" height="58" alt="image" src="https://github.com/user-attachments/assets/3ee6b741-6fbb-476c-92df-5265f4fcebad" />
-
+**RF Relacionados:** RF05  
+**RN Relacionadas:** RN05
 
 ---
 
@@ -130,8 +126,8 @@
 2. O sistema busca todas as sessões vinculadas ao filme.
 3. O sistema exibe as sessões com cinema, data e horário.
 
-<img width="220" height="53" alt="image" src="https://github.com/user-attachments/assets/a8919763-afe4-4796-a158-7e52311f1bda" />
-
+**RF Relacionados:** RF06  
+**RN Relacionadas:** RN04, RN05
 
 ---
 
@@ -151,8 +147,8 @@
 2. O sistema soma todos os registros de público da sessão.
 3. O sistema exibe o total.
 
-<img width="220" height="52" alt="image" src="https://github.com/user-attachments/assets/4e8d01d0-9bc5-45aa-a41c-0f6fae60ba15" />
-
+**RF Relacionados:** RF07  
+**RN Relacionadas:** RN03
 
 ---
 
@@ -172,8 +168,8 @@
 2. O sistema soma o público de todas as sessões do filme.
 3. O sistema exibe o total.
 
-<img width="220" height="53" alt="image" src="https://github.com/user-attachments/assets/784f5897-2449-49a4-b14f-c27f6ad329b1" />
-
+**RF Relacionados:** RF08  
+**RN Relacionadas:** RN03, RN04
 
 ---
 
@@ -193,5 +189,5 @@
 2. O sistema soma o público de todas as sessões do cinema.
 3. O sistema exibe o total.
 
-<img width="220" height="52" alt="image" src="https://github.com/user-attachments/assets/65c4da61-4b62-43cf-bd21-fb7706241985" />
-
+**RF Relacionados:** RF09  
+**RN Relacionadas:** RN03, RN05
