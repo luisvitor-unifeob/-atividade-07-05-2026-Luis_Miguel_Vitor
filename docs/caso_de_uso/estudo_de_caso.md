@@ -1,5 +1,9 @@
+### Diagrama Geral Caso de uso
+
+
 <img width="394" height="808" alt="image" src="https://github.com/user-attachments/assets/5f1b9e40-86e0-423b-8dbf-082c230c6cc9" />
 
+---
 
 ### UC01 — Cadastrar Cinema
 **Ator Principal:** Administrador
@@ -20,6 +24,9 @@
 
 **RF Relacionados:** RF01  
 **RN Relacionadas:** RN04, RN05
+
+<img width="275" height="358" alt="image" src="https://github.com/user-attachments/assets/93cad00a-ba7c-4b1e-9a91-afa1e81015fc" />
+
 
 ---
 
@@ -43,6 +50,9 @@
 **RF Relacionados:** RF02  
 **RN Relacionadas:** RN04
 
+<img width="351" height="358" alt="image" src="https://github.com/user-attachments/assets/702c6396-2d7a-479d-ba0a-4ec98ab6a45c" />
+
+
 ---
 
 ### UC03 — Cadastrar Sessão
@@ -64,6 +74,9 @@
 
 **RF Relacionados:** RF03  
 **RN Relacionadas:** RN01, RN02, RN05
+
+<img width="418" height="447" alt="image" src="https://github.com/user-attachments/assets/26540631-4a13-42c7-acd9-c2c406a0806b" />
+
 
 ---
 
@@ -87,6 +100,9 @@
 **RF Relacionados:** RF04  
 **RN Relacionadas:** RN03
 
+<img width="418" height="447" alt="image" src="https://github.com/user-attachments/assets/61c12380-8e34-404a-aa83-d03c5074eeb9" />
+
+
 ---
 
 ### UC05 — Listar Filmes em Cartaz
@@ -107,6 +123,9 @@
 
 **RF Relacionados:** RF05  
 **RN Relacionadas:** RN05
+
+<img width="299" height="358" alt="image" src="https://github.com/user-attachments/assets/d6fbc87c-8a6b-406c-a34d-7f1ae8faadb0" />
+
 
 ---
 
@@ -129,6 +148,9 @@
 **RF Relacionados:** RF06  
 **RN Relacionadas:** RN04, RN05
 
+<img width="325" height="358" alt="image" src="https://github.com/user-attachments/assets/fea7b674-bdd9-40f9-96ef-4a8c2db041df" />
+
+
 ---
 
 ### UC07 — Consultar Total de Público por Sessão
@@ -149,6 +171,9 @@
 
 **RF Relacionados:** RF07  
 **RN Relacionadas:** RN03
+
+<img width="314" height="358" alt="image" src="https://github.com/user-attachments/assets/d141c30a-64fd-4dd8-9685-48cb684da9f9" />
+
 
 ---
 
@@ -171,6 +196,9 @@
 **RF Relacionados:** RF08  
 **RN Relacionadas:** RN03, RN04
 
+<img width="343" height="358" alt="image" src="https://github.com/user-attachments/assets/b8f30b25-2e03-4bff-a736-ce375eff9717" />
+
+
 ---
 
 ### UC09 — Consultar Total de Público por Cinema
@@ -191,3 +219,6 @@
 
 **RF Relacionados:** RF09  
 **RN Relacionadas:** RN03, RN05
+
+<img width="357" height="358" alt="image" src="https://github.com/user-attachments/assets/7e91bea5-8792-42f0-8698-a7eed080d001" />
+
